@@ -1,0 +1,12 @@
+@startuml Two Mode Sample - Normal
+!pragma revision 1 
+
+!define AzurePuml dist
+ 
+!includeurl AzurePuml/ThirdParty/Mandrill.puml
+!includeurl AzurePuml/AzureCommon.puml 
+
+Mandrill(MM,"ffff")
+ 
+ 
+@enduml

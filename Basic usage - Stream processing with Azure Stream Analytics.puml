@@ -1,0 +1,17 @@
+@startuml Basic usage - Stream processing with Azure Stream Analytics
+!pragma revision 2
+
+!define AzurePuml dist
+!includeurl AzurePuml/AzureCommon.puml
+!includeurl AzurePuml/AIMachineLearning/AzureBatchAI.puml
+
+!includeurl AzurePuml/Compute/AzureBatch.puml
+!includeurl AzurePuml/ThirdParty/all.puml
+!includeurl AzurePuml/Dynamics365/all.puml
+
+AzureBatchAI(fareDataEventHub, "Fare Data", "PK: Medallion HackLicense VendorId; 3 TUs")
+AzureBatch(ssdsd,"fff","jkkj lkjjk")
+Mandrill(ssdsds,"fff","jkkj lkjjk")
+
+DynamicsService(ssdsds,"fff","jkkj lkjjk")
+@enduml
