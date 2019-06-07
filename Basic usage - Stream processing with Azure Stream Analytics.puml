@@ -1,7 +1,7 @@
 @startuml Basic usage - Stream processing with Azure Stream Analytics
 !pragma revision 2
 
-!define AzurePuml dist
+!define AzurePuml https://raw.githubusercontent.com/jonmorleyjones/Azure-PlantUML/master/dist
 !includeurl AzurePuml/AzureCommon.puml
 !includeurl AzurePuml/AIMachineLearning/AzureBatchAI.puml
 
