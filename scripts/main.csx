@@ -25,8 +25,8 @@ var inkScapePath = @"C:\Program Files\Inkscape\inkscape.exe";
 
 Main();
 
-public void Main()
-{
+    public void Main()
+    {
     var lookupTable = ReadConfig("Config.yaml");
 
     // Cleanup

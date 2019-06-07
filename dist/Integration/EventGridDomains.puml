@@ -1,0 +1,9 @@
+sprite $EventGridDomains [65x65/16z] {
+xTLNZiCm34LHTfNzBtW4EOI1L96U7f__-zAPse-f_JyvjHBJ-XM36DlJSw3sZS0Bo8Imqxvfi4XiODWXJIyoT6mJGapfhjZ4YJutu7rLPnD5UmGt5pJJEr7b
+JFzOlaSyr9CCbEzH9bpikLypcIZR-m0lztP5_HaizWpNPChqZaKusxjuJtIe9pLJolUuTergQwDgcpuqjtXCMd_aCY3md6tAA9fT2PqptlyahgzHUW5rz0Zf
+1VSR5f3zbYGNP0Wir6lxDLfQY5wZQrpJpy1btmEN-1HIQjyen62fa_MB4l-kkNF0DOif_JyvrQFz1m
+}
+
+AzureEntityColoring(EventGridDomains)
+!define EventGridDomains(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, EventGridDomains, EventGridDomains)
+!define EventGridDomains(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, EventGridDomains, EventGridDomains)

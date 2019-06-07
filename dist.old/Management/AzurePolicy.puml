@@ -1,0 +1,10 @@
+sprite $AzurePolicy [58x65/16z] {
+fPS7ieCX28Ibwlql_4fac3z61maxDUMph6rfPu4gj6yauq-IvtYOECTX7wvEznpeU9FY9IVZGmgP2OwEDkWhgsYPteFbIsDuCuRGc7Li4erOJdvuapqqvZGD
+tXdJetMNlXjiQ7wyyW9t21AOCSbDfd_YjZ4cahw4-SC4a-IyCJZ9EKkyG_0vMdgHLsVezNVlL9gJCUWe46Ex9K5DpNKc0ObmiKKLGnB5B8GaoUgYr6X57-97
+KnoGf6z2Gnqyag2BvhU4q0AILX8_J13OahAIl74FTgIkaiDPYKdTdPL2duLvbhsDrnFZzMoSsqFrVRlsoi5PAPpFmfrGluVYkmzPoCZSVKjstsRk-EAxGZer
+J9mcq--dZpR_Pfj3N-K4OAPyDidd8ROyLCXWXTnNo9h5V5lFr76EvqBjKAXNoZLIlIwhruBv-lCN
+}
+
+AzureEntityColoring(AzurePolicy)
+!define AzurePolicy(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzurePolicy, AzurePolicy)
+!define AzurePolicy(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzurePolicy, AzurePolicy)

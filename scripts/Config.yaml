@@ -1,107 +1,4 @@
 Categories:
-- Name: General
-  Services:
-  - Source: Azure_logo_icon_50
-    Target: Azure
-
-- Name: Analytics
-  Services:
-  - Source: AzureStreamAnalytics
-    Target: AzureStreamAnalytics
-  - Source: Azure Databricks
-    Target: AzureDatabricks
-  - Source: AzureHDInsight
-    Target: AzureHDInsight
-  - Source: Azure Data Lake Analytics
-    Target: AzureDataLakeAnalytics
-  - Source: Azure Analysis Service
-    Target: AzureAnalysisServices
-  - Source: Azure Event Hubs
-    Target: AzureEventHub    
-  - Source: Azure Data Catalog
-    Target: AzureDataCatalog
-  - Source: Azure Data Explorer
-    Target: AzureDataExplorer    
-
-- Name: Compute
-  Services:
-  - Source: Azure Virtual Machine
-    Target: AzureVirtualMachine
-  - Source: Azure App Service
-    Target: AzureAppService
-  - Source: Azure Functions
-    Target: AzureFunction
-  - Source: Azure Batch
-    Target: AzureBatch
-  - Source: batch-ai
-    Target: AzureBatchAI
-  - Source: Azure Service Fabric
-    Target: AzureServiceFabric
-  - Source: Azure VM Scale Set
-    Target: AzureVirtualMachineScaleSet
-
-- Name: Containers
-  Services:
-  - Source: Azure Container Registry
-    Target: AzureContainerRegistry
-  - Source: container-instances
-    Target: AzureContainerInstance
-  - Source: Azure Service Fabric Mesh
-    Target: AzureServiceFabricMesh
-  - Source: kubernetes-service
-    Target: AzureKubernetesService   
-  - Source: app-service-containers
-    Target: AzureWebAppForContainers
-
-- Name: Databases
-  Services:
-  - Source: Azure SQL Database
-    Target: AzureSqlDatabase
-  - Source: CosmosDB
-    Target: AzureCosmosDb
-  - Source: Azure SQL DataWarehouse
-    Target: AzureSqlDataWarehouse
-  - Source: Azure Data Factory
-    Target: AzureDataFactory
-  - Source: Azure Cache including Redis
-    Target: AzureRedisCache
-  - Source: Azure SQL Stretch Database
-    Target: AzureSqlStretchDatabase
-  - Source: postgresql
-    Target: AzureDatabaseForPostgreSQL
-  - Source: mysql
-    Target: AzureDatabaseForMySQL
-
-- Name: DevOps
-  Services:
-  - Source: Azure DevOps
-    Target: AzureDevOps
-  - Source: Azure Boards
-    Target: AzureBoards
-  - Source: Azure Pipelines
-    Target: AzurePipelines
-  - Source: Azure Repos
-    Target: AzureRepos
-  - Source: Azure Test Plans
-    Target: AzureTestPlans
-  - Source: Azure Artifacts
-    Target: AzureArtifacts
-  - Source: Azure Application Insights
-    Target: AzureApplicationInsights
-  - Source: Azure DevTest Labs
-    Target: AzureDevTestLabs
-  - Source: lab-services
-    Target: AzureLabServices
-
-- Name: Identity
-  Services:
-  - Source: Azure Active Directory
-    Target: AzureActiveDirectory
-  - Source: ActiveDirectoryDomain
-    Target: AzureActiveDirectoryDomainServices
-  - Source: ActiveDirectoryB2C
-    Target: AzureActiveDirectoryB2C
-
 - Name: Integration
   Services:
   - Source: Azure Event Grid
@@ -110,121 +7,25 @@ Categories:
     Target: AzureLogicApps
   - Source: Azure Service Bus
     Target: AzureServiceBus
+  - Source: API Management Services
+    Target: APIManagementServices
+  - Source: Event Grid Topics
+    Target: EventGridTopics
+  - Source: Event Grid Subscriptions
+    Target: EventGridSubscriptions
+  - Source: Event Grid Domains
+    Target: EventGridDomains
+  - Source: Azure Service Bus Relays
+    Target: AzureServiceBusRelays
+  - Source: Logic Apps Custom Connector
+    Target: LogicAppsCustomConnector
 
-- Name: InternetOfThings
+- Name: Dynamics
   Services:
-  - Source: Azure IoT Hub
-    Target: AzureIoTHub
-  - Source: IOT edge
-    Target: AzureIoTEdge
-  - Source: IoT_Central_50
-    Target: AzureIoTCentral
-  - Source: Azure Sphere
-    Target: AzureSphere
-  - Source: TimeSeriesInsights
-    Target: AzureTimeSeriesInsights
-  - Source: azure-maps
-    Target: AzureMaps
+  - Source: dynamics
+    Target: Dynamics365
 
-- Name: Management
+- Name: ThirdParty
   Services:
-  - Source: Azure Backup
-    Target: AzureBackup
-  - Source: Azure Site Recovery
-    Target: AzureSiteRecovery
-  - Source: Azure Scheduler
-    Target: AzureScheduler
-  - Source: Azure Automation
-    Target: AzureAutomation
-  - Source: OMS Log Analytics
-    Target: AzureLogAnalytics
-  - Source: Azure Monitor
-    Target: AzureMonitor
-  - Source: Resource Group
-    Target: AzureResourceManager
-  - Source: AzurePolicy
-    Target: AzurePolicy
-  - Source: Azure Blueprints
-    Target: AzureBlueprints    
-           
-- Name: Media
-  Services:
-  - Source: Azure Media Services
-    Target: AzureMediaServices
-
-- Name: Mobile
-  Services:
-  - Source: AzureNotificationHubs
-    Target: AzureNotificationHubs
-  - Source: Azure App Service - Mobile App
-    Target: AzureMobileApp
-    
-- Name: Networking
-  Services:
-  - Source: Azure ExpressRoute
-    Target: AzureExpressRoute 
-  - Source: Azure DNS
-    Target: AzureDNS   
-  - Source: Azure Virtual Network
-    Target: AzureVirtualNetwork
-  - Source: Azure Traffic Manager
-    Target: AzureTrafficManager
-  - Source: Azure Load Balancer (feature)
-    Target: AzureLoadBalancer
-  - Source: Azure VPN Gateway
-    Target: AzureVPNGateway
-  - Source: AzureApplicationGateway
-    Target: AzureApplicationGateway
-  - Source: ddos-protection
-    Target: AzureAzureDDoSProtection
-  - Source: virtual-wan
-    Target: AzureVirtualWAN
-  - Source: Azure Front Door Service
-    Target: AzureFrontDoorService
-
-- Name: Security
-  Services:
-  - Source: Azure Information Protection
-    Target: AzureInformationProtection
-  - Source: Azure Key Vault
-    Target: AzureKeyVault
-
-- Name: Storage
-  Services:
-  - Source: Azure Storage
-    Target: AzureStorage
-  - Source: Azure StorSimple
-    Target: AzureStorSimple
-  - Source: Azure Data Lake Store
-    Target: AzureDataLakeStorage
-  - Source: Azure Storage - Blob
-    Target: AzureBlobStorage
-  - Source: disks
-    Target: AzureDiskStorage
-  - Source: managed-disks
-    Target: AzureManagedDisks
-  - Source: Azure Storage - Queue
-    Target: AzureQueueStorage
-  - Source: Azure Storage - Files
-    Target: AzureFileStorage
-  - Source: Azure Data Box
-    Target: AzureDataBox
-  - Source: Storage Explorer
-    Target: AzureStorageExplorer
-  - Source: Archive Storage
-    Target: AzureArchiveStorage
-  - Source: netapp
-    Target: AzureAzureNetAppFiles
-
-- Name: Web
-  Services:
-  - Source: Azure Content Delivery Network (CDN)
-    Target: AzureCDN
-  - Source: Azure API Management
-    Target: AzureAPIManagement
-  - Source: Azure Search
-    Target: AzureSearch
-  - Source: Azure App Service - Web App (was Websites)
-    Target: AzureWebApp
-  - Source: signalr-service
-    Target: AzureSignalRService
+  - Source: Mandrill
+    Target: Mandrill

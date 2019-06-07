@@ -1,6 +1,3 @@
-' Azure-PlantUML, version 1.0.0
-' https://github.com/RicardoNiepel/Azure-PlantUML
-
 ' Colors
 ' ##################################
 !define AZURE_COLOR #0072C6

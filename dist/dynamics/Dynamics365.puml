@@ -1,0 +1,10 @@
+sprite $Dynamics365 [40x65/16z] {
+fTHNZkqm30DGkdVjVxUl91166DgtyliWOjn6m4iH6Vur9zBzQqwakTUShEgUEPNbDSUIdMRcfqvbUis9Z7XmBCF1iVIlETqYTfpcNd2qHUnuuTcnpEhAsWjU
+-Fo5v2tAjvoF8Q1hdnx81k3dx-Cui0GWw7OUvGe0_98h5NS2oU4C4vb1PQTgSBPxnKPcOY8pglJTL0EeIuR6DwssOH818nkkT68Bb1sJ1auJJc1MXREO5Tca
+4iko2ztPj6NpDukoJM7sojYmZaVRnX-OvDUOEClSFB7-XEdtatM3M7DovyZqdl7OldsmQMpRl5Zg5Z5w0N-Tq4flhtMH3Xoz-dOiCbzJZJsXYUjRfnSZ_gWA
+i9k6cVhaYZbmfZuvhoV9rcStb9dwd7kicrIVd5DcwdEkiOFgiyiNe_ha73hNvtGqghzBQbH_c-ZnKlu2
+}
+
+AzureEntityColoring(Dynamics365)
+!define Dynamics365(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, Dynamics365, Dynamics365)
+!define Dynamics365(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, Dynamics365, Dynamics365)
