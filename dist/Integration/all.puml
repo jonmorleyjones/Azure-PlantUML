@@ -1,81 +1,34 @@
-sprite $APIManagementServices [65x54/16z] {
-dPU7ekiW34EHBT7v_z_x6a9Bw3ENq7Fti91NawG_WJcbd2KwqZ9mTIng6FD_qCwVti8bIhdYPu_N7ai7QZLOVuNpyLz9m_VVsjbu8ivhxW4bFZp8Jodm3wDM
-lAMEy1HR_ckVW4_y3K8toX7yuG1pQeEQMVJ8Wb6vmMcJP45_6pxladz95bIOzzcQoMEytB0LqjodWzOVeXBUHIq9UDsG1Reg8fpkUHLjF9fpT0Y1QaaNm570
-jMx0ZZNWgEymTz8DWvKMTmaft2sZFjFbmJ8KY2h0iCmDUOe6TxUUGm7FFKGd89Ag2jL1Q44lsbaDj0Nag0QG34W0N4qXUkaSTU7mgrr2yKhGulqFgkQH1GcA
-r6kIbqmq1KG2EVd0WcxFZRlQrI1qCBeCvLVmu_5uVRvykeAe1blF0myguOyYeRO_yGMCmQpSj_YgS4Vz9mONsiFWYcQe50ET1Il_qL0ksDVegt8hyPLI1SiH
-tizAuzu9N3V7e_WAUedR2G6nBogCL8NNhWRvNGC_O4W1s4b-xC9ZEyad4n_CKMSWBRzqNZ-JUCKx0wGLyYju4xdWRO1f3SlNsxNQPhSlwp2l6y3oxMKFHFGZ
-PkkcHNUdsjGkuE7K_owWzGQ0-i3V-eUI_lnXwny
-}
-
 AzureEntityColoring(APIManagementServices)
 !define APIManagementServices(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, APIManagementServices, APIManagementServices)
 !define APIManagementServices(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, APIManagementServices, APIManagementServices)
-
-sprite $AzureEventGrid [65x65/16z] {
-xTO5SWCm34HHaKcw_taBKZ5eo-Nc3HIIls5FXkqPjab_qi1jOFGrUZXGOKrx7RWD30i5ha1cX5V5me19KXymlA80b-4phWuJ3pJqwZZRMwjELljHtwFL7k6P
-zoNL1vHQ9DSVskyHjtgI1vJlKHnEzgnse8cZR6zL7C_sskfxHHpDzWA7nENwm2ASxyDwJxJLKtr0-HxdJgC-r0zPf_5Rc3nCrCxfTUemg2secRPtve-pSozV
-TH0o2rXgBGWR2-4dBA0ym8q5aQM5SQY9OvXSED8am1GU6_SWv9-3a7WLKaRoInRsuQfQwB26BQZb1y8V6XXrJRU_vARlzlS
-}
 
 AzureEntityColoring(AzureEventGrid)
 !define AzureEventGrid(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureEventGrid, AzureEventGrid)
 !define AzureEventGrid(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureEventGrid, AzureEventGrid)
 
-sprite $AzureServiceBus [65x65/16z] {
-xTTNWiCW34LHMKYux7-_qpGl3TFJmqqre9DVPzxwmlnxD5fzNUibuAakFu0ZiFv_AjMbcAV9ejec_ekUBIw94edF9zGd2AMJldc1a9Xtb4XDICsB9W6V4cmp
-0oG4sye12S4sii2-WEKyi2zWiGm81IoL0Q60XJ8W571P38G2Bae133cxLCPyEO23B29CcAy0yCiMgwy4a8fZ9xYg1b0jC801S4dqR4qMjROqtYFnQisjTsc2
-mG6q_rzOjdTgDFVEVmC
-}
+AzureEntityColoring(AzureLogicApps)
+!define AzureLogicApps(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureLogicApps, AzureLogicApps)
+!define AzureLogicApps(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureLogicApps, AzureLogicApps)
 
 AzureEntityColoring(AzureServiceBus)
 !define AzureServiceBus(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureServiceBus, AzureServiceBus)
 !define AzureServiceBus(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureServiceBus, AzureServiceBus)
 
-sprite $AzureServiceBusRelays [65x65/16z] {
-xTI7qYiX20LWcg2y__kcxqXs8XFTU__-JS-9HrAMwiUO7zI-Ki5VGRCvRL-WCCTwmLz1zJk1rn1UKx-ha26vejVDT0C9b0t24kbW1Kl7wmEiZu0I8KmZYUZm
-18SBFkDNm6I0wH5WYPdScICiOFTMY8cQky62vjxWIjoTOLhfn-fMDGF3bgAvZTLlnRX-2AR8yvPhxXLcuEu4ktkPtRcOl9105k5-OHp9hX52JlJ6Mji7pVH6
-8855DxoFT5EI8VfvBLaqGXfG5Ws81f950qM3aaK3-YI9_ji4eW53nCCeGWtmpMXq3sVHc8pVn3tAKD6BGkz7rUyAR11X84PezKRzmQQN_iDVGTTqZlbFygSU
-FNy6
-}
-
 AzureEntityColoring(AzureServiceBusRelays)
 !define AzureServiceBusRelays(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureServiceBusRelays, AzureServiceBusRelays)
 !define AzureServiceBusRelays(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureServiceBusRelays, AzureServiceBusRelays)
-
-sprite $EventGridDomains [65x65/16z] {
-xTLNZiCm34LHTfNzBtW4EOI1L96U7f__-zAPse-f_JyvjHBJ-XM36DlJSw3sZS0Bo8Imqxvfi4XiODWXJIyoT6mJGapfhjZ4YJutu7rLPnD5UmGt5pJJEr7b
-JFzOlaSyr9CCbEzH9bpikLypcIZR-m0lztP5_HaizWpNPChqZaKusxjuJtIe9pLJolUuTergQwDgcpuqjtXCMd_aCY3md6tAA9fT2PqptlyahgzHUW5rz0Zf
-1VSR5f3zbYGNP0Wir6lxDLfQY5wZQrpJpy1btmEN-1HIQjyen62fa_MB4l-kkNF0DOif_JyvrQFz1m
-}
 
 AzureEntityColoring(EventGridDomains)
 !define EventGridDomains(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, EventGridDomains, EventGridDomains)
 !define EventGridDomains(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, EventGridDomains, EventGridDomains)
 
-sprite $EventGridSubscriptions [65x65/16z] {
-xTLNZiCm34LHTfNzBtW4EOI1L96U7f__-zAPse-f_JyvjHBJ-XM36DlJSw3sZS0Bo8Imqxvfi4XiODWXJIyoT6mJGapfhjZ4YJutu7rLPnD5UmGt5pJJEr7b
-JFzOlaSyr9CCbEzH9bpikLypcIZR-m0lztP5_HaizWpNPChqZaKusxjuJtIe9pLJolUuTergQwDgcpuqjtXCMd_aCY3md6tAA9fT2PqptlyahgzHUW5rz0Zf
-1VSR5f3zbYGNP0Wir6lxDLfQY5wZQrpJpy1btmEN-1HIQjyen62fa_MB4l-kkNF0DOif_JyvrQFz1m
-}
-
 AzureEntityColoring(EventGridSubscriptions)
 !define EventGridSubscriptions(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, EventGridSubscriptions, EventGridSubscriptions)
 !define EventGridSubscriptions(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, EventGridSubscriptions, EventGridSubscriptions)
 
-sprite $EventGridTopics [65x65/16z] {
-xTVLOSKm30LGKIpOVzz2g2YdYShFvz_NJB29QwmQ4BygO0JeERu7NDHk9w3X1mAG227XCS6xfbWu0Ci3nYmWdE0zIBEv_0pVDK-t8kH8LYroBf1YsKIF4IHa
-vz55rHPyrHZKP-74EaWShyIIjaNNYS01Oi9Um3oLEMwFk1SGlV6WjX3CpFlN6H9JMtdqAUODc5aSSEa7Q1ngrHPKnw0u2yLrK5w95IA5tLW_3xxmH1etKwa5
-usP2jLcxkXUuy4xylm7j71sVhX7mZDq3
-}
-
 AzureEntityColoring(EventGridTopics)
 !define EventGridTopics(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, EventGridTopics, EventGridTopics)
 !define EventGridTopics(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, EventGridTopics, EventGridTopics)
-
-sprite $LogicAppsCustomConnector [65x65/16z] {
-xTH72iH034JHHdA-_u6DSwZ-87gjsWx_ZNFPrW-LzIM-11988844dfcVsq8_PwLX6r1W2IIGG7o-0TRUsp2W4E_R1Jzp5AolJVwV1Hzg-_NB0W82_nu41gG7
-0G7fGK10UX0Ga9u41bnw400mwKyXEEZZWW_RndQWW324WKVGtYCNKGJe4H01UWH4W1u14Q17G0Je4VW9r3Fm4xXdG7_tXe_g9a0VdrCV5wYF2zJ71UXvAm
-}
 
 AzureEntityColoring(LogicAppsCustomConnector)
 !define LogicAppsCustomConnector(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, LogicAppsCustomConnector, LogicAppsCustomConnector)

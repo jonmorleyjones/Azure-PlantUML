@@ -1,0 +1,12 @@
+AzureEntityColoring(DynamicsService)
+!define DynamicsService(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, DynamicsService, DynamicsService)
+!define DynamicsService(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, DynamicsService, DynamicsService)
+
+AzureEntityColoring(exchange)
+!define exchange(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, exchange, exchange)
+!define exchange(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, exchange, exchange)
+
+AzureEntityColoring(powerbi)
+!define powerbi(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, powerbi, powerbi)
+!define powerbi(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, powerbi, powerbi)
+

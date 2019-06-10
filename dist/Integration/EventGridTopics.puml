@@ -1,9 +1,3 @@
-sprite $EventGridTopics [65x65/16z] {
-xTVLOSKm30LGKIpOVzz2g2YdYShFvz_NJB29QwmQ4BygO0JeERu7NDHk9w3X1mAG227XCS6xfbWu0Ci3nYmWdE0zIBEv_0pVDK-t8kH8LYroBf1YsKIF4IHa
-vz55rHPyrHZKP-74EaWShyIIjaNNYS01Oi9Um3oLEMwFk1SGlV6WjX3CpFlN6H9JMtdqAUODc5aSSEa7Q1ngrHPKnw0u2yLrK5w95IA5tLW_3xxmH1etKwa5
-usP2jLcxkXUuy4xylm7j71sVhX7mZDq3
-}
-
 AzureEntityColoring(EventGridTopics)
 !define EventGridTopics(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, EventGridTopics, EventGridTopics)
 !define EventGridTopics(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, EventGridTopics, EventGridTopics)
