@@ -1,3 +1,10 @@
+sprite $AzureBoards [70x70/16z] {
+xTK74kCW38LX1DAJSlyBByEk6RnA4EdrdvhYRspJqeqIlJHGH_HmHHj3XslYVqg-If4xABQhVOCny_ywekZONuN7j7tb_lM5oa-vj4NbfrWPm_5b7YjvJFpW
+Vx3oKspNgwq01Q1cgW3iGWLgGmeDbDXeGSzKj1ak1ETqS2DRu7K5TZAXK8aH4rbKr2O9P4cnG06lAB100SNAv4wqQ5CaLd0QoPHLKCjTYM_58qIPKPEcJC84
+QGbg52WQ8CIevRbYImXuhi2sbFK88j8KMLIqK5QFcA0LAHsXoZXaKoXGEjAP0Rb4QSo834goK1cPFQ9T8Pnse5iRqn6jGO1McfRHopJ669Cq3vxn23XGn3CU
+GGwK0iTu12c8u1YFS8fYnpW452g4_nX6T2lnpK2mSYi-mRoILY9CurY86KchvG1PZEIAn_4Z5Spyi2p1ZIn6Z24fwTAeiDIuP4hx_W
+}
+
 AzureEntityColoring(AzureBoards)
 !define AzureBoards(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureBoards, AzureBoards)
 !define AzureBoards(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureBoards, AzureBoards)

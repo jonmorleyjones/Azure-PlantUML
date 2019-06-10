@@ -1,3 +1,12 @@
+sprite $AzureDiskStorage [70x70/16z] {
+rTS9Skiu38HXR0sGkl-1HuFiCllHIchpTu2_MYKajkKLlJvLCp_5__nafdA3UG1vXNZlxMFgWLn2VEV64uwa41VBJHgvm28Dk2mo9C4gG9xWYnqKLedskSTo
+YoHQT2Ho2opHe2AUr1Xp7ctEKGcmAn1DekPnDVW3vzeyLf90hXrBbVVKAZAIuFLnUQWvaff90178gj6g_ZsyME8TSkzSNJJHdegS1acGAUomvYLnApAwq9rn
+IP0AVP7rUGgnWFsEPb_tK8-XvEhRFQNWvt62J269DaKaZvzc9H1j6sXJvHJ7mfnZrAWle__RB9IyqJf-RRfyilfb0_A3vhpTA9T7Xd4d4Ifh6dsCEtCKZ3JC
+umrgiDOSen3-vZ6alhp-zrTSLPb0-0yHOQH1-5MqxnsFdNMYkNP3OuybckqYU1V14kyPfuMyG31g-yQ-usnABY7koQMu2tUM83ZWUmB1vUv2djnzwyZum--k
+VHzf88aRaRPCjESQdtDyQTzederqecqF0O8VLqKgFD5CDDkon0B87rn45EklTOyLdFAHIOly0oZvWKIn8N_hmEJAS3FXAaiMznAS-IQ5i2xigRa7S7txRgho
+QbxVVm
+}
+
 AzureEntityColoring(AzureDiskStorage)
 !define AzureDiskStorage(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDiskStorage, AzureDiskStorage)
 !define AzureDiskStorage(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDiskStorage, AzureDiskStorage)

@@ -1,3 +1,10 @@
+sprite $AzureExpressRoute [70x43/16z] {
+hTM7SWGX281XYWkw-lwlcoRZIIh1-wSarxvXcy8ViQXA8JY9rReWNz6LG3PIwsWQqJqw6KM8oiamyyVklvnY4z2f8eyBVdApC02AUPbGFnAxL0LINKttRamX
+ezST6Hb6nZ36a95WP7pK3EaVhpgba1i1YGdW6Wb65s8v9eTu9e4a6Oya6O_acUeGNp66WqW3Ay4u9C0aaSMCNvYsa1o3641cl37eTz6thhgG4DFdybMcXABM
+1rC1GiojQl5Q5nTJ8H1tGnOZkjKgX693B2Hr4SOItRikcmcBBOonRFC5cjmypsjlRp6awtleJoklhR36bFknMJvnbiFpOgVvETS8tEi2mT0fw5uBX6Fr5mVb
+CHXa67RFDC6_ikjHqAqlYT1-1gy
+}
+
 AzureEntityColoring(AzureExpressRoute)
 !define AzureExpressRoute(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureExpressRoute, AzureExpressRoute)
 !define AzureExpressRoute(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureExpressRoute, AzureExpressRoute)

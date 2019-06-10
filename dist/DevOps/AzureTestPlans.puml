@@ -1,3 +1,11 @@
+sprite $AzureTestPlans [70x70/16z] {
+xTW7hjmm30HGcKtowlxdJK_6PHIGARy_z5y6N8uj0TjUEd7tphZRrh9ydUBwJrBiYMVPRBsNLk4xWuodJB71l9kKZvIFbCvKK_fWUYlnmPM6sSRArl9Yh4HB
+ax4crTN-tO9r_8vMH-6gBNDURPcJOijS_57BOUPcJXPSMAtvTzRJRHiBGKpoTRetSc39rydPAD3HThPbD_r2n1pGTgvbK_jAHOuvcTT9KQwQ8KN4lqkrtMyX
+PdACYSIxRIJ4v11ZYTTfmxG6AjyfHY5javRjH35CudKIZ49ZD3BdLU3b0-IeiiDptR9nchcTEWOrZjrEwtjP5wBV-ANb2T6vnxpJTZGIAPDuj0ETjHJm1liy
+s3iLayA2RS9oc34fF3INlML60MdVnOJbCFjSsD7osOF4p2LhNtMIdmr1s_GtiTmiV_HqKZt8OZb7pUnZnLUOOwKZfO2boFnRJhPR9wJfifqyTNLApeMoeEzq
+FGJNuf_kHAzVbaILcxJlFWC
+}
+
 AzureEntityColoring(AzureTestPlans)
 !define AzureTestPlans(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureTestPlans, AzureTestPlans)
 !define AzureTestPlans(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureTestPlans, AzureTestPlans)

@@ -1,3 +1,11 @@
+sprite $AzureRepos [70x70/16z] {
+xTS7ajim38LXFJmKIlU_RuhCCIOSXwQ4zEo_wsv_wcqRWgqaspGvrjAf4elAFbNQiTZFLcYshofcV6cW7TVQvONYnzNQ2sK_BYVR68xhSJ24kb_FA5i6RtUB
+TBpTBt8PLs9NfAJeTvM8iX96alO2SXK8RKLnzdn458ya9aeYvcx9909HCtPcfWIfSJvHwZU80poV6A1l52EZUyF8498Z5ND5QUFJ7c3zMG2sh1YrPO7SJkId
+A-DFsS6UG7C--zjbPEDy7kSf8U_M5tsijc6TIryWVWu7i7TAA4azxyRr7u1G0EZ2TcGyipRcWg-9BMtJbiZGoNWhAWG-bB4megY42O22aaH12HKW4utBIjX0
+v8YiAJDYNPaGgufCY4LbEZlNbN4i2aeI1KNoS5zGjBMVe7meZrLVlAGeUbfG512FC07ijX807qy8YRkAGkBfsLs5q7pAkugaek3l7HU5jFfyYUTwGY0gwmkz
+DIUWXNMNmxfRsuwiUfKLxd7ZAgiIjrv9aQsd1SItPnetZR14odq6
+}
+
 AzureEntityColoring(AzureRepos)
 !define AzureRepos(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureRepos, AzureRepos)
 !define AzureRepos(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureRepos, AzureRepos)

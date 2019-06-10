@@ -1,3 +1,8 @@
+sprite $AzureArtifacts [70x70/16z] {
+xTC5WWCX343Hq0snzlxNNI-Ckq_U0JuQA0izO03IFlPF8xI9sikIreoCgGYqq34LErl5acKgDhrYYrHqwSeMR-GLhtZ5Arxn2jARb74TPOp_FXu08CycIYCW
+u7D-XG8jKNaSjl9wArTO_yYWoYlJKYGPMJ7ADECzAagPQ3BdTbE6LtzfhtWbraogOCMUbPeBlT6S2huTe9ASQ8vmaKgmvWpJ2021hH5Jx4G90dm1
+}
+
 AzureEntityColoring(AzureArtifacts)
 !define AzureArtifacts(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureArtifacts, AzureArtifacts)
 !define AzureArtifacts(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureArtifacts, AzureArtifacts)

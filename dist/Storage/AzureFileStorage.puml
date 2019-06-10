@@ -1,3 +1,10 @@
+sprite $AzureFileStorage [70x60/16z] {
+jPU7RWD120LXA_3_7noLb2Ty77l66VN47icpHInvjgKePJGxO562s0cDRXbsXD0jQcTqkc7P8Lf82yn2Me2Jj6Vi96qjyBIKF33R3x9cG1vu7-o5dWNkHxkx
+9u4L_jN65Vr5qyAqFLnn8QyHdnRzExHupN1fqIAnnP-Jw03b5ch1VIMFBAINWOUTMFHtfVGoi2KMPAC5z-YgMDJ5SXPf3W7Bwt6IQyicHs0nnhJFBNYSDB3e
+TbXWiGvfdzR5m6nrYqq9BP9rGNLesUSMvKzO1ismYph2Ba94MgxRuEvAzui6bWNtNF4441SiSFVEofbMl07hjnJrzotuk-Lj2uEblMkPXAndbcY6KQYrCqiu
+JmrO_fOCOXmFpmB_uHR2kByuddNdyODZtStTc-cE6QNrnqabHDq1gawgyf6fkMNPQk-rNNfDOE0SJ5iBBF__ugDUU1m1yYHjBV2aZAafGful
+}
+
 AzureEntityColoring(AzureFileStorage)
 !define AzureFileStorage(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureFileStorage, AzureFileStorage)
 !define AzureFileStorage(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureFileStorage, AzureFileStorage)

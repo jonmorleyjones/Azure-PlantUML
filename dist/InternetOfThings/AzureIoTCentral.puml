@@ -1,3 +1,11 @@
+sprite $AzureIoTCentral [61x70/16z] {
+xPPNbiCW40H5JlS_x-OmR5d3QtzlVwja2aQcBozfbEl9nBxM6laPDBIvFjAZp9QvlZDRaD0qbiqiekoUaIJPZvW5z23AvYiEGTt8pdgz9q-edsLRm5eyzL0_
+dkBXXdPKpvlidWWRHrPwDMMP2dN8EjCG6dx1b_NSV5bVVUJBaJsV9sI5pyQNJJqxwf35xlPu-7hMUFo0yp5L0_kdKWIOcpBI4UOauXWTc8F0FIKyAxu-PYJ0
+s9Ioxj80uyKAZDbMOFp3AF0-QrM3pRdgi9ae7RQphCDsi7JO_iEei4tCCcmZm_zmddTm9Oo4JWuzal0-ggXnX5iut0YFdwh-LUFNlmeRhjskcB3NYlEylQg2
+sPMxHvfpIPvRyUCLZMy8FKWe1ZEq2NKdVn-FtL67h9qugHNpmkSRbJxDLXo5FirMt8BIfwckz6cg9wVj8bGFJiz6e5vzsQEwqgUnK4WWZhelUvv4pgoWZf4H
+rCqiIedz8FiA
+}
+
 AzureEntityColoring(AzureIoTCentral)
 !define AzureIoTCentral(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureIoTCentral, AzureIoTCentral)
 !define AzureIoTCentral(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureIoTCentral, AzureIoTCentral)

@@ -1,3 +1,11 @@
+sprite $Azure [70x54/16z] {
+fPI7hhOm34FRqfNu_P_t7mpTY1iYKuxcDuBS4zD4iQNlPCdfCvlsz9cc-ZrA1yR_K_KlIYQ0iYSgQPMYEA8amLptYZDA0L0NlU8_yxG3JIjCxEm-zb1zfMhu
+YLBn7yqhIdOs4sk-hXeEPCzb7yap03lNS29lgsR711VjLTKkwlu5BdZ1LN6Bql7389S3tA8aXO4HR1rSRQsm2DlwcylBDIyuwosA-OeNF61e9frXl5AhLfIb
+l52BdcnPUC7DEN_7Rogj5ZtPil22X_FF3HwTK6itqU6XXL1hGcU1nwJKOXXP7fLHYsBlJWSDrBg9Ao-u-55s6YruHl86ARW2qLKqES6A-4KHHd1_YXBkkuTg
+9R0Vl4wJQ9HNcnce5QBRpj6LkprwU5_rK7syx_QalwL7v5dm9AFu-nwdUp-ZJz47mK97yVSjtlvwYccku78ZXUHIrH7CKseR2e-H6FBMXYYUAUHyZ4JpKq5I
+lVdEpCVro2ly1G
+}
+
 AzureEntityColoring(Azure)
 !define Azure(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, Azure, Azure)
 !define Azure(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, Azure, Azure)

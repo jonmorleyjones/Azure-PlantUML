@@ -1,3 +1,11 @@
+sprite $AzurePipelines [70x70/16z] {
+lTO7ZgKm48JXjZiPt_--cnF5DYwFhFbVKlnKBm7ocQbdMJJEQ96lKKpFHSOioLLEA7v2qJoXv0d5JoWzCNTpZpqbqD2VMQ32lvymLM08fLV8zu9LugxS43LI
+CPYYzm8KxljnK8nI0XHJY54i8NrHDCV_o-Itw5MKRmf-BgD0nbDnKFolGamXlcaUmJ6Ue33l1pyPowMIHGR8gv9bOV2FhfMHRqNSY599lbh94yhOLao8AH4B
+HMKz9MB5Y138Yj6dyaHMZCj36Tk82IhxI7JvthWfB8BNFst050A18S1m20v1XaFmqXAP7KJbTyZG20v11X5Y23BPWaAQICsaI8irSfb8pSIFbrWWOqwJPIrU
+aMjIYZH0O0Yfc9N8DLd5t7ymnH1GQkG7KmpXbEu_iYY6L4hx7ZAz1GvvL-nxiAQBj80XUuhqxyYDkUQ-8ktNIy0GJi5WoCUKd7CCC1W54MnViNb2QTS9HVfr
+G066KmY6Lv3X5Mp9y0eo-ygIQRnICoxF51DWufvtUVOL
+}
+
 AzureEntityColoring(AzurePipelines)
 !define AzurePipelines(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzurePipelines, AzurePipelines)
 !define AzurePipelines(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzurePipelines, AzurePipelines)

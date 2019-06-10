@@ -1,3 +1,10 @@
+sprite $AzureLogicApps [70x70/16z] {
+xPS5aiCm40IrD5Rb__yzL4MnPmEoZqzTd8nRJAKncKn43cV50Jok0S8AeS2W1OXjNB33WYXh32zO8QHHYEoB0E3igAT6POzpPV22ShLFPv3tv2EMsYsLApfW
+gVP2FMfPoWlBj7p262tTikotMBVOVaiHzwNMwYvbnC84hPP_P97h6nrbwHlQSHxRqlATJIEFYbe0221C9T-cGY_B2rqBp0FlkE6TS5khjDSchRK13N-ngwF1
+gMvHtmIi5QroqJYFBEMw-M7LR-cSzrMgIzDH4nwmhXV-9fzrmWFMwwoFpbt5SOkQ0s6wDRH_tEG1YwCHt2aDksiHd55U2uqHYrsro67BjEX-IzbaEpemqZri
+V95hw2FhABjLyZ_NBKCeMu8M3fFVL7aB7NbDUDPtSUm6tv3OzPeWr8TVDh-UoUGP
+}
+
 AzureEntityColoring(AzureLogicApps)
 !define AzureLogicApps(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureLogicApps, AzureLogicApps)
 !define AzureLogicApps(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureLogicApps, AzureLogicApps)

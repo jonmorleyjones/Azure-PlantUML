@@ -1,3 +1,11 @@
+sprite $Mandrill [70x62/16z] {
+pTDNhkGm34JH8KLbj_Q_svTTgCROSc1Fg6_Z0DUIH5-n_qWHaLSWOBoAl0GHF-9d17CXc1S14o9cEbjCwo8KCDQm6YQ8jMLT0q8ARHy9aHGW62iZxVUm8hyj
+558UjjV3IjbGScrGHj_h8QNLBIMJCl9s3obzHoca3DlgOQNsRILNKfQmsGEbzJqbapBALW-KFb4AAIDkz42fVL_95GgQk0TAxJCbapBgCq9ARtCba_BKPApK
+Vg1KKXw142WhCbCIAQDn3vJM9iewKl0i8okrdr0A53GPAxNF58oKqTSU3CYEWWrQHiz59NHcJ8sHS5e93suAZ9YSLYIHyaYiw0L5si1AuHwveYYQMYcPUYuf
+4jUUyZ4qwKL5wjhpEVHSLNJvwVbSHiz5HUm3MJu9DCaDvRCf5sBqbg9BBGMBGMufOeMMvAOYaHIzhKW6Od9VKUgvhuYXnwD8Gez7KVJSLD2KrQ6WASXv9M51
+U1f5UAMjAt9-QkAVMWn-nMACwaL2_9Yfk-TpmT_pENNtU9iqOkRgmOAh1vir_PfCdpRxz1q
+}
+
 AzureEntityColoring(Mandrill)
 !define Mandrill(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, Mandrill, Mandrill)
 !define Mandrill(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, Mandrill, Mandrill)

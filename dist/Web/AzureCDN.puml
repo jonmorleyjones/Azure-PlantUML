@@ -1,3 +1,9 @@
+sprite $AzureCDN [70x70/16z] {
+xTN5OGKn34LHyNF_3OVPCcRvTGguCsRwbr9A4NCFTnEwnXQV06UwOl45hunoZZQ47urFJ8bePn50g7SQoJEBI5B91cN3oZ22e8vuBiOL2EtoSGH1AwpcRgen
+gO0N3OyUEaOp6il8UaYMDL8dVu8X_lmiEliHy72p9P551UiAPcXKGH9PL7HLmPJJE_MOmaBOpcR1cYmhsC7Kq-DAK8-FAw24NrRqbsnYrXL6--sg4eiBUoa6
+f-1YmtZhuQ2YazSLcnbd-iGfqM_2ENfifPHIdW4
+}
+
 AzureEntityColoring(AzureCDN)
 !define AzureCDN(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureCDN, AzureCDN)
 !define AzureCDN(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureCDN, AzureCDN)

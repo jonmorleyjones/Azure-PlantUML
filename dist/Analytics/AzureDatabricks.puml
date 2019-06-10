@@ -1,3 +1,10 @@
+sprite $AzureDatabricks [67x70/16z] {
+tTNPOSCm38DXEvH5KlllsxlDzPT5mhTYWCyNB6n_nAPjhTXqzmvoclwPUMe1dpdsnu7zy7C04O4ECfmpce2EcDSngGXrfcdViKPE3G0-3dn76M6WWUp3dyaG
+Yg0YvfrOumxEDSbe4X5hjP38zKOGeWFham141Sx46_8CS2O0KO0pSKx8mXj0XFvAOYqYT2Ho0G68023120DdOYGYCh32jkr0H0HoV1uuan41ECwdrboGy7CG
+cFlLwUtLAua5-G7EI33Y_0oEMy8V1u4qtX6-7hAupmDVF0CuyWF_8GPmv8t-P4xWoDk47d8IHluC088081dYFvaXxmWZ6VAEC98Xx4Xrn6JqTYH-0nns9FoH
+19wT6JgGtHt9_xaZnUajpy0-buWWC9K944xnQWBgP_1Tcm3NPy0OATQujoCnDWmZ_1sB783Gd7DuvBa87MJkWW0rWI88I1H5K6DH547DIA48Cf8Ym3KHYl0A
+}
+
 AzureEntityColoring(AzureDatabricks)
 !define AzureDatabricks(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDatabricks, AzureDatabricks)
 !define AzureDatabricks(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDatabricks, AzureDatabricks)

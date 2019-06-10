@@ -1,3 +1,9 @@
+sprite $LogicAppsCustomConnector [70x70/16z] {
+xTG5aiD044FHDiFz3xobfGv88ONJlyZuZ3E1sf4Nf_RXIYcbb59AAT7yXNFxlvMuD2XTP2-jb59AAIsKmKVGq9X8CYu29aHTJwE8lfjXfEqYypffHYkxoAeP
+hUmZcj4AGIIZ5O98HYi4aOnM228PhGWacUr6daB0d5uY3jDTHGamzXD5CWmPsksa0iR_qc3ylmwCFGAISKSZ67zc0EFDKiduCsOoYLoW92CHr0-q80mGeouH
+cm5YCq1ivYBa2m
+}
+
 AzureEntityColoring(LogicAppsCustomConnector)
 !define LogicAppsCustomConnector(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, LogicAppsCustomConnector, LogicAppsCustomConnector)
 !define LogicAppsCustomConnector(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, LogicAppsCustomConnector, LogicAppsCustomConnector)

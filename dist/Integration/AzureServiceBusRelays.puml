@@ -1,3 +1,10 @@
+sprite $AzureServiceBusRelays [70x70/16z] {
+xTK5SiGm30LGaPNut_--fQ3hHZDMkSqRMF8AOfhm0IeoRZUtOGKTfN5tbBVrcrhU4uLrSHL4rCoKBtwqXLA8RH-N9xRBXs4x4KfIEwCaQqYseOR-jYZvvvAV
+e_nwoH8xK9fCjYgLAMj6TNis0nCb5G2-XWEowmL0vUCjfKm0h2ahGG7CjAc9GxN_d-mnXpY0qdqU9A-V9rS0J6FwkJMCB1fHKrdcf0zikjyh4It-OaAtvXdL
+5qOnyytK3os-AKm1zKCNHVnGw1hxcVIb73GivReOyGPTAj50zGRJ5O-Yc3VaWwF47PMuezpJvI15AyncmKmt91h7fQape54oBc4__SWYmJOhNGQlYvdtE2B2
+TANvaNs5ZT4un-uBejnHQWR-cLl5HtW4
+}
+
 AzureEntityColoring(AzureServiceBusRelays)
 !define AzureServiceBusRelays(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureServiceBusRelays, AzureServiceBusRelays)
 !define AzureServiceBusRelays(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureServiceBusRelays, AzureServiceBusRelays)

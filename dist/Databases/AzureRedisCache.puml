@@ -1,3 +1,11 @@
+sprite $AzureRedisCache [70x70/16z] {
+xTTNhkCm341HTb7Q_u97DeQ937TpocltEpvG1mBPVle9YPb5X7k4S3-IhHYpH7GHGZdf1f9av3o2qrYYXqk3E0n6LMrCLSUXqBvYiKLgE-dlaQ3kAyKmfcMR
+nPAW7Ycby71mHNGO0nD4R7Qez0JFZeBPgTAp_Rr4LhDp9JAD2pZCS1PkA2CtPT53fLZq4PNv47D26PRygQ8yRxMyOiRR2c-_FNXBeRr7Wsyekl-0tL3ifUYx
+bu8NbQ80mAAsJ8K0G2yhpQ27550GFVNhIgkwkR7gVaVfrUMZGQp5_QOILNShfNZqG0beAAtedr38yaf1zhHY09vM143J2WEG9vNvkv9K77hYESMWXvvJ1AOi
+fLI2EUpHKsNyWloXKk0T-rEbJiKJbrfTownkL77-hUSKYIN9A1x7DgKGW1szc715CK1lXmgVAnMejcC5P5UnM5fkKxuCbj6kKjkKQzjG3AA8RKi9fhODHM4Z
+4jjIh0InL8nW9nmaYrH4IrqenHWl_PzcOUeXHCHTww8mmJ_ifry
+}
+
 AzureEntityColoring(AzureRedisCache)
 !define AzureRedisCache(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureRedisCache, AzureRedisCache)
 !define AzureRedisCache(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureRedisCache, AzureRedisCache)

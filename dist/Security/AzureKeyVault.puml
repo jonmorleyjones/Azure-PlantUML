@@ -1,3 +1,11 @@
+sprite $AzureKeyVault [63x70/16z] {
+fPLPWgP028D_GW7tF_7iOyI65ikyk7wIO2sVNWBeBq4-6u9IU0gBPc6lDBL7KtiqjP5x8xzI09HwM5mkdyEZvCsTeVVYYpBtZkAJcEETeruA6irlOe1R9Bop
+jAIaFM9KtKDAkiNPEfOfwD19v-ENv4lktxB1VvVu9S-ynbyHBqSTN_NKcVWd56EUrw3FM3auRzxCE5PArkb9j9RmtRDzYKF2hCrgiOvtzH--8XbgU30e-ymq
+gHrewEHLByMxzOuplKZFhmrt6Jzd1Jzs4H9SbBUpTvsiExbyEf_YB0ysSirnCeoECKx7pkYV1pWXOz_7ECEByoUCSOQ7itDpdBCsNk5wdEpXBwlxE_nbvxV-
+Emwy77LAtGmRdZt0xQYPVlmK3oRcwHHF9OtkXpWHf9LhY7EfJXSomrbyfIkR_NVMGsf4O8JxfTbE-mCyxv5vVxx7aL_EvUqE9yse4Wt_JoLjEG_lzjAW97MJ
+aT3IAoYj_sLl0Dw_WpXhrJ3bPIpAaCmjmgGhdd9J1LINnKKkJLj7ygOtCxh_jJQWDIFp08pTQtqBzwNva_PWIgs03P-vi3oDW2xoJm
+}
+
 AzureEntityColoring(AzureKeyVault)
 !define AzureKeyVault(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureKeyVault, AzureKeyVault)
 !define AzureKeyVault(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureKeyVault, AzureKeyVault)

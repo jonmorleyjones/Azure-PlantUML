@@ -1,3 +1,10 @@
+sprite $AzureDataCatalog [70x70/16z] {
+xTI5igOm38RXs9VA_L_mXXcwIlc3x57USUH1AhIchUThj9tbYRcYSGQMp2SAzrw5aubD5FIkd4nrHwcUI_UKTFPfbKSHLPIeNb44et91KOpyWi8OIBsWX2Ee
+KRjnZ1xbKQgR2bF4V4wfa353boPAY-Q6BuIe_Pd-OM7D9quBWsqptLZJPHjX8hLPajnVZ8Xj7gsf6JmgRLCH8jfNE356eFLb0FyzmA95a8HIbI8n_oSeKsIQ
+KGfuRFDc01o0cOu91CyffK1eEp7tj191vMz1pQEyCdB0J7MCgfzGHZxwuegQeInTKGIZSa7HwqfYbqegn8mMVPsHVXJC5Br5eNABGgApFAdiTqHvb4V1BOg-
+L9WIsGj5APNiAH3A9ZvHXf5DpFzIO4AZ7m
+}
+
 AzureEntityColoring(AzureDataCatalog)
 !define AzureDataCatalog(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureDataCatalog, AzureDataCatalog)
 !define AzureDataCatalog(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureDataCatalog, AzureDataCatalog)

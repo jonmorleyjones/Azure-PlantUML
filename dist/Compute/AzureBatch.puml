@@ -1,3 +1,11 @@
+sprite $AzureBatch [70x64/16z] {
+pTC73Xen48NXvwbsSl_xHYCqm5ehumdrfwZwe-m-_59jCwmIVPn5YaMwgrXxJh7VKUmLYdrEyKVrZ1VAUD2VlncLbHdvlf98NU7MdrUKoFgjWqztBHNR7iIf
+uXxlNRSLEb4w4D--xIBdoc2qFXXFAi48O1l8IXa4G9zLWk5X6yXQ6Jo6spg_nYTArdrTlqRVLlgUuiyfPgS8GoTafNJ0Om4JeaJgvmdTrSOb3ORWX_ON7aGa
+02CLqqIAIZ2mVa60O0eB7zSOabTQ07D2MObqfE8CCB2DsFbT5mp4dbI28TzVU9-LZBsWDBtF3-bsEFGEnROhALfIL3oG-H212ue1mRH9OK1AtmLG9nmL0TWg
+YWj0G1xdU5UWMKq99h--0coc3T2Y4WnxVfS02O4eJUbQSV5KZ04AgQv4TiU0BU9BaXMKO5hXtjLPoLWB2lY--QJAZZ8tAmtyl4A0r9NL0kgAKBmhGFR_IXoV
+PbHMygUqzGBMIZ8D47jE2ION8CSAIZ1aYpOL4rls3m
+}
+
 AzureEntityColoring(AzureBatch)
 !define AzureBatch(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, AzureBatch, AzureBatch)
 !define AzureBatch(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, AzureBatch, AzureBatch)
