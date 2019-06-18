@@ -30,7 +30,7 @@ var plantUmlPath = @"../plantuml.jar";
 
 var inkScapePath = @"../Inkscape\inkscape.exe";
 
-static string rsvgConvertPath = @"../rsvg-convert/toolsrsvg-convert.exe";
+static string rsvgConvertPath = @"../rsvg-convert/rsvg-convert.exe";
 
 
 Main();
