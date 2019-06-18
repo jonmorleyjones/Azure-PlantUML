@@ -176,7 +176,7 @@ public static bool RsvgConvert(string inputPath, string outputPath, int targetIm
     }
 */
     
-    return true;
+    return false;
 }
 
 public bool CreateMonochromNew(string inputPath, string outputPath)
