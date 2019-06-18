@@ -155,6 +155,7 @@ public bool FitCanvasToDrawing(string inputPath)
 
 public static bool RsvgConvert(string inputPath, string outputPath, int targetImageHeight, bool exportAsPng = false, bool withWhiteBackground = false)
 {
+    /*
     var processInfo = new ProcessStartInfo
     {
         FileName = rsvgConvertPath,
@@ -173,7 +174,8 @@ public static bool RsvgConvert(string inputPath, string outputPath, int targetIm
             return false;
         }
     }
-
+*/
+    
     return true;
 }
 
